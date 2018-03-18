@@ -1,5 +1,8 @@
 <application>
-  <component name="RefactoringSettings">
-    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  <component name="CPPToolchains" version="2">
+    <toolchains detectedVersion="5">
+      <toolchain name="Default" useCustomCMake="false" debuggerKind="BUNDLED_GDB" />
+    </toolchains>
+    <debuggers />
   </component>
 </application>
