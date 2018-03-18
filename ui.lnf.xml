@@ -1,0 +1,10 @@
+<application>
+  <component name="UISettings">
+    <option name="FONT_SCALE" value="1.9166666" />
+    <option name="FONT_SIZE" value="29" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="24" />
+    <option name="MAX_LOOKUP_WIDTH2" value="1086" />
+    <option name="SHOW_NAVIGATION_BAR" value="false" />
+    <option name="SHOW_STATUS_BAR" value="false" />
+  </component>
+</application>
